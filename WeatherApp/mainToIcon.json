@@ -1,0 +1,18 @@
+
+{
+    "Clouds": "cloud.sun",
+    "Clear": "sun.max",
+    "Tornado": "tornado",
+    "Squall":"wind",
+    "Ash":"smoke",
+    "Sand":"smoke",
+    "Fog":"cloud.fog",
+    "Dust":"smoke",
+    "Haze":"cloud.fog",
+    "Smoke":"smoke",
+    "Mist":"cloud.fog",
+    "Snow":"cloud.snow",
+    "Rain":"cloud.rain",
+    "Drizzle":"cloud.drizzle",
+    "Thunderstorm":"cloud.bolt",
+}
